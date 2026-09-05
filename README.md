@@ -8,11 +8,16 @@ In addition to its focus on personal development, Selfrise also cares about the 
 
 
 ## Collaborators
+- **Engels**
+  - Email: engelsmlb@gmail.com
+  - 
 - **Anthony-2003**
   - Email: anthony1volquez@gmail.com
   
 - **Leny00**
   - Email: lenyg675@gmail.com
+ 
+ 
 
 ## Tools
 - Flutter
